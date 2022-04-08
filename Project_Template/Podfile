@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Project_Template' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Project_Template
+  pod 'SnapKit', '~> 5.0.0'
+  pod 'Then'
+  pod 'Kingfisher' , '~> 5.0'
+  pod 'Moya'
+  # pod 'SwiftLint'
+  # pod 'KakaoSDKCommon'  # 필수 요소를 담은 공통 모듈
+  # pod 'KakaoSDKAuth'  # 카카오 로그인
+  # pod 'KakaoSDKUser'  # 사용자 관리
+  # pod 'lottie-ios'
+  pod 'Mute'
+  # pod 'Firebase/Analytics'
+  # pod 'Firebase/Crashlytics'
+  pod 'PanModal'
+  pod 'ListPlaceholder'
+  pod 'SkeletonView'
+  # pod 'ImageSlideShowSwift', :git => 'https://github.com/TeamBeMyPlan/ImageSlideShow.git', :branch => 'master'
+end
