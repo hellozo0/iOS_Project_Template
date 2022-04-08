@@ -1,20 +1,27 @@
 # iOS_Project_Template
-안녕주의 iOS Project Template 입니다. 하지만 송지훈의 Utils
+안녕주의 iOS Project Template 입니다. 하지만 송튀김 선생님의 Utils을 훔친...
 
-오늘 바로 올릴께여 
 <br><br><br>
 
 ### 📚사용한 라이브러리 
-1. Moya <br>
-2. Then <br>
-3. Snapkit <br>
-4. Kingfisher <br>
+|라이브러리|
+|Moya|
+|Then|
+|Snapkit|
+|Kingfisher|
+|등등등...|
 
 
 ### 🗂폴더링 구조
-
-
-### 📝Utils
-
-
-### 🎨Literals
+🗂 Global
+    🗂 Extension
+    🗂 Network
+    🗂 Utils
+    🗂 Protocol
+    🗂 Manager
+    🗂 Supporting Files
+    🗂 Model
+    🗂 Literals
+    🗂 Resource
+🗂 Screen
+Info.plist

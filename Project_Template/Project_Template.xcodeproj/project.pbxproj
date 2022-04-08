@@ -150,8 +150,6 @@
 			children = (
 				F2FB7B2C280005AF00B4CE85 /* Global */,
 				F2FB7B8F2800062700B4CE85 /* Screen */,
-				F2FB7B1B280003BB00B4CE85 /* ViewController.swift */,
-				F2FB7B1D280003BB00B4CE85 /* Main.storyboard */,
 				F2FB7B25280003BC00B4CE85 /* Info.plist */,
 			);
 			path = Project_Template;
@@ -299,6 +297,8 @@
 		F2FB7B8F2800062700B4CE85 /* Screen */ = {
 			isa = PBXGroup;
 			children = (
+				F2FB7B1B280003BB00B4CE85 /* ViewController.swift */,
+				F2FB7B1D280003BB00B4CE85 /* Main.storyboard */,
 				F2FB7B912800062700B4CE85 /* Alert */,
 				F2FB7B972800062700B4CE85 /* Login */,
 			);
